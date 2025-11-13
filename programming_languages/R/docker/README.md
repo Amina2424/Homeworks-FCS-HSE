@@ -21,7 +21,7 @@ cd r_hw
 
 # 2. Копируем файл с данными
 cp /path/to/Пациенты.xlsx .
-cp /path/to/data_exploration.R .
+cp /path/to/analyze.R .
 ```
 
 ## Пример вывода данных
